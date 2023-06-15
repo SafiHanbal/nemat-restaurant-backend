@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "6326d921c47fe048c98e846c",
+    "name": "Sushant Dixit",
+    "email": "uma.murty@gade.net",
+    "phone": 6341438375,
+    "photo": "sushant-dixit.jpg",
+    "address": {
+      "house": "32, Mayawati Heights",
+      "area": "Hadapsar",
+      "city": "Srinagar",
+      "pinCode": 326335
+    },
+    "role": "staff",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e8470",
+    "name": "Atul Ghose",
+    "email": "ambika76@karan.com",
+    "phone": 6867391830,
+    "photo": "atul-ghose.jpg",
+    "address": {
+      "house": "61, Leelawati Heights",
+      "area": "Peter Nagar",
+      "city": "Ludhiana",
+      "pinCode": 361351
+    },
+    "role": "staff",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e8476",
+    "name": "Saurabh Minhas",
+    "email": "bhatnagar.jiya@hans.in",
+    "phone": 9792078747,
+    "photo": "surabh-minhas.jpg",
+    "address": {
+      "house": "68, Fakaruddin Apartments",
+      "area": "Goregaon",
+      "city": "Vadodara",
+      "pinCode": 372130
+    },
+    "role": "staff",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e846b",
+    "name": "Vimala Issac",
+    "email": "dixit.ajay@hotmail.com",
+    "phone": 9171163763,
+    "photo": "vimala-issac.jpg",
+    "address": {
+      "house": "80, Hrishikesh Apartments",
+      "area": "Basanti Nagar",
+      "city": "Warangal",
+      "pinCode": 479399
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e846f",
+    "name": "Gayatri Sarin",
+    "email": "lmurty@yahoo.co.in",
+    "phone": 8710230775,
+    "photo": "gayatri-sarin.jpg",
+    "address": {
+      "house": "59",
+      "area": "Kharadi",
+      "city": "Mysore",
+      "pinCode": 554285
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e846e",
+    "name": "Aayushi Bala",
+    "email": "ybawa@dial.com",
+    "phone": 1147769068,
+    "photo": "ayushi-bala.jpg",
+    "address": {
+      "house": "13",
+      "area": "BirenGunj",
+      "city": "Lucknow",
+      "pinCode": 543365
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e846a",
+    "name": "Sunita Balan",
+    "email": "sane.nalini@mohanty.ac.in",
+    "phone": 4395986787,
+    "photo": "sunita-balan.jpg",
+    "address": {
+      "house": "44, Bijoy Apartments",
+      "area": "Rohini Nagar",
+      "city": "Thiruvananthapuram",
+      "pinCode": 370875
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e8471",
+    "name": "Kusum Datta",
+    "email": "jawahar.beharry@hotmail.com",
+    "phone": 8285668331,
+    "photo": "kusum-datta.jpg",
+    "address": {
+      "house": "92",
+      "area": "Kharadi",
+      "city": "Ratlam",
+      "pinCode": 277193
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e8472",
+    "name": "Madhu Kuruvilla",
+    "email": "vdash@mehan.in",
+    "phone": 2884354277,
+    "photo": "madhu-kuruvilla.jpg",
+    "address": {
+      "house": "84, Ruchi Villas",
+      "area": "SonaGarh",
+      "city": "Kolkata",
+      "pinCode": 451848
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  },
+  {
+    "_id": "6326d921c47fe048c98e8475",
+    "name": "Bhairavi Nagi",
+    "email": "uday.date@yahoo.co.in",
+    "phone": 2263935856,
+    "photo": "bhairavi-nagi.jpg",
+    "address": {
+      "house": "23, Namita Apartments",
+      "area": "Bandra",
+      "city": "Bikaner",
+      "pinCode": 550750
+    },
+    "role": "user",
+    "password": "$2a$12$kD45AYLHdOfQLH3h/amzdOI3j3x/Mur./oB3/ysfI8ifWXQnDc40O"
+  }
+]
