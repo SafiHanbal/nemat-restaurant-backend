@@ -10,10 +10,12 @@ const db = process.env.DATABASE_URI.replace(
 );
 mongoose
   .connect(db)
-  .then(() => console.log('Connected to database.'))
-  .catch((err) => console.error(err));
+  .then(() => {
+    console.log('Connected to database.');
 
-const port = process.env.PORT || 8000;
-app.listen(port, () => {
-  console.log(`App running at port: ${port}`);
-});
+    const port = process.env.PORT || 8000;
+    app.listen(port, () => {
+      console.log(`App running at port: ${port}`);
+    });
+  })
+  .catch((err) => console.error(err));
