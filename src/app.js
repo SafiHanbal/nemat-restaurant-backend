@@ -19,13 +19,13 @@ app.use(express.json());
 app.use(express.static('./public'));
 app.use(cors());
 app.use(compression());
+app.use(mongoSanitize());
+app.use(xss());
 app.use(
   helmet({
     crossOriginResourcePolicy: false,
   })
 );
-app.use(mongoSanitize());
-app.use(xss());
 app.use(
   hpp({ whitelist: ['ratingsAverage', 'ratingsCount', 'price', 'category'] })
 );
